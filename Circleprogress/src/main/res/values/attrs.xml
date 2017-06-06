@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleProgress">
+        <attr name="inner_color" format="color"/>
+        <attr name="outer_color" format="color"/>
+        <attr name="progress_width" format="dimension"/>
+        <attr name="progress_textSize" format="dimension"/>
+        <attr name="progress_textColor" format="color"/>
+        <attr name="progress_max" format="float"/>
+        <attr name="progress_current" format="float"/>
+        <attr name="other_color" format="color"/>
+    </declare-styleable>
+
+</resources>
