@@ -17,8 +17,8 @@ allprojects {
 
 ```
 	dependencies {
-	   compile
-	   'com.github.livesun:CircleProgress:v1.0'
+	
+		compile 'com.github.livesun:CircleProgress:v1.0'
 	}
 ```
 xml布局文件
